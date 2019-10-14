@@ -37,7 +37,8 @@ node_modules/
 jspm_packages/
 blog-client/package-lock.json
 blog-server/package-lock.json
-
+blog-client/node_modules/
+blog-server/node_modules/
 # TypeScript v1 declaration files
 typings/
 
